@@ -1,4 +1,6 @@
 <h1>DAT250 EXPASS 5</h1>
+
+All the tutorials went fine and smoothly
   
 Code for task 1: https://github.com/h181214/DAT250_EXP_REPORTS/tree/main/Expass5/demo
 <p>
